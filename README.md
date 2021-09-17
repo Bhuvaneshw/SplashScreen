@@ -34,3 +34,6 @@ If you are using Vector Drawables then place those drawables in mipmap folder (W
 	</style>
 
 </resources>
+
+# Icons
+Launcher Icon from [Flaticon](https://flaticon.com) - Freepik
