@@ -6,7 +6,7 @@ Splash screen demo made in right way(for Android)
 ![ScreenShot1](screenshots/splash_screen1.jpg) ![ScreenShot1](screenshots/splash_screen2.jpg)
 
 # Usual mistake
-Most of the answers for SplashScreen is by using Timer to delay!
+Most of the answers for SplashScreen are by using Timer to delay!
 But it isn't a good way to show SplashScreen! We should not make the users to wait for loading nothing. As app loads with white or black screen and the users wait until the timer finishes.
 So I made this demo on how to show real SplashScreen on Android.
 
