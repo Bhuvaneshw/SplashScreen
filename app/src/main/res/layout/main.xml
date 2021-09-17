@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Created by Bhuvaneshwaran on 16/9/2021
+https://www.saffrosoft.ml
+-->
+
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:gravity="center"
+	android:orientation="vertical">
+
+	<TextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Do you like this demo?\nIf yes then hit star button in Github"
+		android:gravity="center"
+        android:padding="20dp"/>
+
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Show in Github"
+		android:id="@+id/github"/>
+
+</LinearLayout>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Created by Bhuvaneshwaran on 16/9/2021
+https://www.saffrosoft.ml
+-->
+
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#536DFE</color>
+    <color name="colorControlNormal">#536DFE</color>
+    <color name="colorControlHighlight">#C5CAE9</color>
+
+    <color name="colorSplashBackground">@color/colorPrimaryDark</color>
+
+</resources>
