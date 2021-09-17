@@ -17,6 +17,7 @@ https://www.saffrosoft.ml
         <item name="android:colorControlHighlight">@color/colorControlHighlight</item>
 	</style>
 
+    <!--Splash Theme-->
     <style name="SplashTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
         <item name="android:colorPrimaryDark">@color/colorSplashBackground</item>
         <item name="android:windowBackground">@drawable/splash_background</item>
